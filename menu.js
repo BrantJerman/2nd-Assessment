@@ -57,7 +57,7 @@ console.log(pizza)
 //CODE HERE
 
 
-console.log(pizza.price)
+console.log(pizza.popularity)
 
 
 
